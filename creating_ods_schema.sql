@@ -1,0 +1,4 @@
+CREATE SCHEMA ODS; 
+
+SELECT * FROM ODS.raw_data; 
+
