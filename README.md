@@ -2,6 +2,11 @@
 
 ![Executive Overview](7_visuals/overview_page.png)
 ![Country Analysis](7_visuals/country_analysis_page.png)
+![Time Series Analysis](7_visuals/time_series_analysis_page.png)
+![Testing Analysis](7_visuals/testing_analysis_page.png)
+![Economy Analysis](7_visuals/economy_analysis_page.png)
+![Health Analysis](7_visuals/health_analysis_page.png)
+![Demographics Analysis](7_visuals/demographics_analysis_page.png)
 
 ## Project Overview
 This project presents a comprehensive, production-grade Data Engineering and Business Intelligence (BI) solution based on the **Our World in Data (OWID) COVID-19 global dataset**. It encompasses the entire data lifecycle—from architectural data modeling and robust ETL pipeline development to analytical cube design and multi-page interactive dashboard visualization.
