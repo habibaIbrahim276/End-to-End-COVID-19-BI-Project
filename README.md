@@ -1,5 +1,7 @@
 # COVID-19 End-to-End Data Engineering & Business Intelligence Project
 
+![Executive Overview](visuals/overview.png)
+
 ## Project Overview
 This project presents a comprehensive, production-grade Data Engineering and Business Intelligence (BI) solution based on the **Our World in Data (OWID) COVID-19 global dataset**. It encompasses the entire data lifecycle—from architectural data modeling and robust ETL pipeline development to analytical cube design and multi-page interactive dashboard visualization.
 
